@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f9661a4-b6c9-4621-bc18-d7eebd152fa9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f9661a4-b6c9-4621-bc18-d7eebd152fa9" name="Default Changelist" comment="Обновленная версия генератора (есть проблемы)" />
     <list id="0ffd7e40-1521-4fc7-a9ae-4166a6106b01" name="Первые попытки генерации, надо пытаться как то убрать из кода в функции random сократить if'ы, наверно" comment="">
       <change beforePath="$PROJECT_DIR$/generator_1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator_1.2.py" afterDir="false" />
     </list>
@@ -18,8 +16,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generator_1.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="316" column="18" selection-start-line="316" selection-start-column="18" selection-end-line="316" selection-end-column="18" />
+            <state relative-caret-position="1156">
+              <caret line="382" selection-start-line="382" selection-end-line="382" />
+              <folding>
+                <element signature="e#81#144#0" />
+                <element signature="e#170#246#0" />
+                <element signature="e#271#378#0" />
+                <element signature="e#419#439#0" />
+                <element signature="e#480#500#0" />
+                <element signature="e#523#722#0" />
+                <element signature="e#746#945#0" />
+                <element signature="e#968#1049#0" />
+                <element signature="e#1085#2240#0" />
+                <element signature="e#2276#3429#0" />
+                <element signature="e#3464#4607#0" />
+                <element signature="e#4640#5780#0" />
+                <element signature="e#5832#6094#0" />
+                <element signature="e#6144#6406#0" />
+                <element signature="e#6456#6719#0" />
+                <element signature="e#6767#7028#0" />
+                <element signature="e#7059#7152#0" />
+                <element signature="e#7169#9172#0" />
+                <element signature="e#9203#9810#0" />
+                <element signature="e#9863#10239#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567258576700</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Обновленная версия генератора (есть проблемы)">
+      <created>1569175562740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569175562740</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -172,9 +199,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09378293" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09378293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -184,8 +210,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.33021808" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.29595014" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.29595014" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -235,13 +261,36 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первые попытки генерации, надо пытаться как то убрать из кода в функции random сократить if'ы, наверно" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первые попытки генерации, надо пытаться как то убрать из кода в функции random сократить if'ы, наверно" />
+    <MESSAGE value="Обновленная версия генератора (есть проблемы)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновленная версия генератора (есть проблемы)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/generator_1.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="316" column="18" selection-start-line="316" selection-start-column="18" selection-end-line="316" selection-end-column="18" />
+        <state relative-caret-position="1156">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
+          <folding>
+            <element signature="e#81#144#0" />
+            <element signature="e#170#246#0" />
+            <element signature="e#271#378#0" />
+            <element signature="e#419#439#0" />
+            <element signature="e#480#500#0" />
+            <element signature="e#523#722#0" />
+            <element signature="e#746#945#0" />
+            <element signature="e#968#1049#0" />
+            <element signature="e#1085#2240#0" />
+            <element signature="e#2276#3429#0" />
+            <element signature="e#3464#4607#0" />
+            <element signature="e#4640#5780#0" />
+            <element signature="e#5832#6094#0" />
+            <element signature="e#6144#6406#0" />
+            <element signature="e#6456#6719#0" />
+            <element signature="e#6767#7028#0" />
+            <element signature="e#7059#7152#0" />
+            <element signature="e#7169#9172#0" />
+            <element signature="e#9203#9810#0" />
+            <element signature="e#9863#10239#0" />
+          </folding>
         </state>
       </provider>
     </entry>
